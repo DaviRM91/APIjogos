@@ -44,11 +44,13 @@ Uma API RESTful desenvolvida em Java com Spring Boot para gerenciar uma coleçã
  Acesse o console do H2 em `http://localhost:8080/h2-console` (usuário: `sa`, senha: 1234).
  
 # Endpoints
-- `POST /api/jogos` - Cadastrar um novo jogo
-- `GET /api/jogos` - Listar todos os jogos
-- `GET /api/jogos/{id}` - Buscar jogo por ID
-- `PUT /api/jogos/{id}` - Atualizar informações de um jogo
-- `DELETE /api/jogos/{id}` - Excluir um jogo
+Utilizado Postman para testes
+
+- `POST  - Cadastrar um novo jogo
+- `GET  - Buscar jogo por ID
+- `PUT  - Atualizar informações de um jogo
+- `DELETE  - Excluir um jogo
+
 
 # Exemplos de Requisições
 - **Cadastrar Jogo**
