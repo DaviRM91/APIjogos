@@ -56,6 +56,7 @@ Utilizado Postman para testes
 
 # Exemplos de Requisições
 - **Cadastrar Jogo**
+- Colar o texto abaixo no Postman para realizar o cadastro dos jogos no H2 Data Base
 
     ```json
    
