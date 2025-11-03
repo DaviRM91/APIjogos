@@ -54,9 +54,8 @@ Uma API RESTful desenvolvida em Java com Spring Boot para gerenciar uma coleçã
 - **Cadastrar Jogo**
 
     ```json
-    POST /api/jogos
-    {
-        {
+   
+   {
   "id": "2",
   "titulo": "Red Dead Redemption 2",
   "genero": "Ação-Aventura",
@@ -66,7 +65,7 @@ Uma API RESTful desenvolvida em Java com Spring Boot para gerenciar uma coleçã
   "nota": 9.7,
   "finalizado": false
 }
-    }
-    ```
+
+    
 # Autor
 - Davi Rodrigues - [DaviRM91]
