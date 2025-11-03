@@ -64,7 +64,8 @@ Uma API RESTful desenvolvida em Java com Spring Boot para gerenciar uma coleçã
   "anoLancamento": 2018,
   "nota": 9.7,
   "finalizado": false
-}
+    }
+
 
     
 # Autor
