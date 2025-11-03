@@ -50,7 +50,7 @@ Utilizado Postman para testes
 - `GET  - Buscar jogo por ID
 - `PUT  - Atualizar informações de um jogo
 - `DELETE  - Excluir um jogo
-No console do H2 Data Base utlizar comando SELECT * SELECT  FROM JOGOS para listar os jogos
+ No console do H2 Data Base utlizar comando SELECT * SELECT  FROM JOGOS para listar os jogos
 
 
 # Exemplos de Requisições
