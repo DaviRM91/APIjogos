@@ -42,6 +42,7 @@ Uma API RESTful desenvolvida em Java com Spring Boot para gerenciar uma coleçã
 
  A aplicação estará disponível em `http://localhost:8080`.
  Acesse o console do H2 em `http://localhost:8080/h2-console` (usuário: `sa`, senha: 1234).
+ JDBC URL: jdbc:h2:mem:jogos
  
 # Endpoints
 Utilizado Postman para testes
